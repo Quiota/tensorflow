@@ -4,8 +4,8 @@
 This repository contains the Ipython notebooks used in our webinar demos and all necessary components to run them.
 
 ### System requirements
-1. Python version >= 2.7 with ``pip``. See Q&A if you do not know what is ``pip``.
-2. Install ``virtualenv`` using pip if your system does not have it: run ``pip install virtualenv``. See Q&A if you want to know more about virtualenv
+1. Python version >= 2.7 with ``pip``
+2. Install ``virtualenv`` using pip if your system does not have it: run ``pip install virtualenv``
 
 ### Installation
 1. Check if your system satisfies the requirements above
@@ -22,6 +22,6 @@ This repository contains the Ipython notebooks used in our webinar demos and all
 4. Start the notebook server and access the notebook
 5. After shutting down the notebook server, to deactivate the virtual environment, execute ``deactivate``
 
-###Misc
+### Misc
 **virtualenv**: [reference link](http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/)
 
